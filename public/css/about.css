@@ -1,11 +1,10 @@
 .topnav-right {
     text-align: right;
-    background-color: #ddd;
     font-family:cursive;
 }
 
 body {
-    background-image: url("https://images.unsplash.com/photo-1590157678696-a5151f512cbe?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8&w=1000&q=80");
+    background-image: url("https://media.istockphoto.com/photos/laptop-stationery-and-flowers-on-a-pink-pastel-background-picture-id1257068380?k=20&m=1257068380&s=170667a&w=0&h=Eqs60pzbG_gPy-asA-ercEcYmc8DCBmxpYm9zdQ9SOk=");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -19,8 +18,8 @@ body {
     font-family: cursive;
   }
 
-  h2 {
+  p {
       text-align: center;
       font-family: cursive;
+      font-size: 25px;
   }
-
